@@ -14,8 +14,8 @@ blueprint:
         device:
           filter:
           - integration: esphome
-            manufacturer: ApolloAutomation
-            model: BTN-1
+            # manufacturer: ApolloAutomation
+            # model: BTN-1
           multiple: false
     button_1:
       name: Button 1
